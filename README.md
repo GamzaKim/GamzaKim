@@ -3,6 +3,8 @@
 [![Tistory Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://gamzacode.tistory.com/)](https://gamzacode.tistory.com/) 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/9efaa10f50fc4c798aece93cae7f4469?pvs=4)](https://www.notion.so/9efaa10f50fc4c798aece93cae7f4469?pvs=4)
 
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+
 
 * 💻 코틀린,자바를 공부하고있는 개발자가 꿈인 학생입니다
 * 🎨 디자인에 관심이 많습니다.
