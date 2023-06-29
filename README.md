@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <div align=center>
 
 
- <a href="https://gamzacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+ <a href="https://gamzacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
