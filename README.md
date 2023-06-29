@@ -1,7 +1,7 @@
 ### 👋 반갑습니다!
 
-[![Tistory Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://gamzacode.tistory.com/)](https://geonlee.tistory.com/) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/9efaa10f50fc4c798aece93cae7f4469?pvs=4)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
+[![Tistory Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://gamzacode.tistory.com/)](https://gamzacode.tistory.com/) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/9efaa10f50fc4c798aece93cae7f4469?pvs=4)](https://www.notion.so/9efaa10f50fc4c798aece93cae7f4469?pvs=4)
 
 
 * 💻 코틀린,자바를 공부하고있는 개발자가 꿈인 학생입니다
